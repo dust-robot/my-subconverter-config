@@ -1,0 +1,14 @@
+[[proxy_group]]
+name = "PROXY"
+type = "select"
+proxies = [".*"]
+
+[[proxy_group]]
+name = "apple"
+type = "select"
+proxies = [".*"]
+
+[[proxy_group]]
+name = "Google"
+type = "select"
+proxies = [".*"]
